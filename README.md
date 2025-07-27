@@ -7,7 +7,7 @@ The analysis covers key metrics such as restaurant density, cuisine preferences,
 ## 📊 Project Components
 
 - `Project_Code_File.ipynb` – Jupyter notebook with data cleaning, analysis, and visualizations.
-- `Restaurant__Ratings.xlsx` – Raw dataset used for the analysis.
+- `Restaurant__SourceData.xlsx` – Raw dataset used for the analysis.
 - `PRESENTATION.pptx` – Final presentation of findings.
 
 ## 🔍 Key Insights
