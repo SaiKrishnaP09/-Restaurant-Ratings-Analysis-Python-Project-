@@ -9,7 +9,7 @@ This project aims to analyze restaurant data to identify the best city in India 
 - `Restaurant__Sourcedata.xlsx` – Raw restaurant dataset.
 - `PRESENTATION.pptx` – Summary presentation.
 
----
+
 
 ## 🧹 Data Cleaning Techniques
 
@@ -37,7 +37,6 @@ The raw dataset was preprocessed using the following techniques:
   - Extracted city with most restaurants
   - Grouped restaurants by locality for density analysis
 
----
 
 ## 🔍 Key Insights
 
@@ -50,7 +49,7 @@ The raw dataset was preprocessed using the following techniques:
   - Online Delivery: avg rating = 3.28
 - ⏳ **Long-term Growth**: High ratings take ~5 years
 
----
+
 
 ## 🛠️ Technologies Used
 
@@ -59,7 +58,6 @@ The raw dataset was preprocessed using the following techniques:
 - Excel (for raw data)
 - PowerPoint (for presentation)
 
----
 
 ## 🚀 How to Run
 
