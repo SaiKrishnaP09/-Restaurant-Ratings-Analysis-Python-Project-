@@ -2,7 +2,6 @@
 
 This project aims to analyze restaurant data to identify the best city in India to launch a restaurant. It explores restaurant density, culinary trends, customer ratings, cost ranges, and the impact of services like table booking and online delivery.
 
----
 
 ## 📁 Project Components
 
