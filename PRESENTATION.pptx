@@ -1,19 +1,46 @@
-The presentation visually summarizes the findings of the Restaurant Ratings Analysis project. It includes:
+# 📽️ Overview of Presentation
 
-Market Potential: Identifies India as the best country for restaurant expansion based on demand.
+This presentation outlines the key findings and recommendations from our Restaurant Ratings Analysis project, 
+focused on identifying the most strategic location and approach for launching a new restaurant in India
 
-City Analysis: Highlights New Delhi as the top city with the highest restaurant concentration.
+📊 Slide-by-Slide Summary
 
-Restaurant Density: Recommends launching in low-competition areas like North-East regions of the city.
+1. Market Potential
+- Analysis supports India as a high-demand region for restaurants.
 
-Cuisine Insights: Suggests focusing on Indian-Chinese fusion, a preferred choice by consumers.
+2. Best Country & City for Launch
+- India selected based on data insights.
+- New Delhi chosen as the top city with the **highest number of restaurants (5,473)**.
 
-Rating Distribution: Shows limited restaurants with ratings above 4, emphasizing quality advantage.
+3. Restaurant Density
+- Suggests launching in **North-East areas** of New Delhi with lower competition.
 
-Affordability: Recommends pricing between ₹1000–₹2000 for two people based on market trends.
+4. Culinary Preferences
+- Indian-Chinese fusion cuisine identified as the most popular among consumers.
 
-Service Impact: Correlates higher ratings with restaurants offering online delivery and table booking.
+5. Ratings Analysis
+- Few restaurants have ratings above 4.
+- High-quality service and food are essential for standing out.
 
-Growth Timeline: Concludes that it typically takes five years for a restaurant to earn top-tier ratings.
+6. Affordability Insight
+- Target **mid-range pricing** (₹1000–₹2000 for two) for better market fit.
 
-This deck supports data-driven decision-making for launching a restaurant in India, specifically New Delhi.
+7. Online & Table Booking Services
+- Restaurants offering:
+  - **Online delivery** → Avg rating: 3.28
+  - **Table booking** → Avg rating: 3.48
+- Both services correlate with higher customer satisfaction.
+
+8. Success Timeline
+- Restaurants typically take **5 years** to achieve ratings above 4.5.
+
+🎯 Conclusion
+
+This presentation provides data-driven recommendations for entering the restaurant industry in India, particularly in New Delhi, with a focus on:
+- Strategic location
+- Service enhancement
+- Quality dining experience
+- Competitive pricing
+
+It visually supports the findings from the Jupyter Notebook and Excel-based analysis.
+
